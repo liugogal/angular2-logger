@@ -84,7 +84,7 @@
     "tslint": "4.5.1",
     "typings": "^2.0.0",
     "uglify-js": "^2.6.2",
-    "zone.js": "^0.7.4"
+    "zone.js": "^0.8.4"
   },
   "peerDependencies": {
     "@angular/common": "^4.0.2",
